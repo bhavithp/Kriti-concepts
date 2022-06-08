@@ -69,6 +69,35 @@ a:hover, a:focus, a:active {
   color: white;
 }
 
+/* .maps {
+  width: 50%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+iframe {
+  width: 5px;
+  height: 50px;
+  filter: invert(100%);
+}
+@media screen and (max-width: 768px) {
+  .maps {
+      width:50%;
+      min-height:50px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .maps {
+    width:50%;
+    min-height:50px;
+}
+} */
+
+
 
 @media screen and (max-width: 768px) {
   .hero-text-heading, .probootstrap-hero h1, .flexslider .probootstrap-heading {
